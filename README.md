@@ -10,4 +10,4 @@
 ## Блок 2. ООП.
 * [Классы и объекты](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/oop)
 * [Наследование](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker), [Инкапсуляция](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/pojo), [Полиморфизм](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/io)
-* **[Проект](https://github.com/ReyBos/job4j_tracker) по итогам блока.**
+* **[Проект](https://github.com/ReyBos/job4j_tracker) по итогам блока**
