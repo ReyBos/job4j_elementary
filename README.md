@@ -11,6 +11,7 @@
 * [Классы и объекты](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/oop)
 * [Наследование](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker), [Инкапсуляция](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/pojo), [Полиморфизм](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/io)
 * [Исключения](https://github.com/ReyBos/job4j_elementary/tree/master/src/ru/job4j/ex)
+* **[Тестовое задание](https://github.com/ReyBos/games_oop_javafx/commit/a0fa9f48ff69298e5b93b4ba186c3aa107874c59) по итогам блока**
 * **[Проект](https://github.com/ReyBos/job4j_tracker) по итогам блока**
 ## Примечания
 ### Наследование. Композиция. Агрегация.
