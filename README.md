@@ -24,4 +24,4 @@
 * [Коллекция Set, HashSet.](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/set)
 * [Map. HashMap.](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/map)
 * [Сортировка](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/comparator)
-* **Тестовое задание по итогам блока** ([link1](https://github.com/ReyBos/job4j_tracker/commit/34fadd68999a6473ed9fe54f7dac9dd5ef756a62), [link2](https://github.com/ReyBos/job4j_tracker/commit/d7b56c81f0fb71a5ccee38ccb2878830ba3566e8))
+* **[Тестовое задание](https://github.com/ReyBos/job4j_tracker/commit/34fadd68999a6473ed9fe54f7dac9dd5ef756a62) по итогам блока**
