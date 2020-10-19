@@ -25,3 +25,5 @@
 * [Map. HashMap.](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/map)
 * [Сортировка](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/comparator)
 * **[Тестовое задание](https://github.com/ReyBos/job4j_tracker/commit/34fadd68999a6473ed9fe54f7dac9dd5ef756a62) по итогам блока**
+## Блок 4. FP, Lambda, Stream API
+* [Lambda](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda)
