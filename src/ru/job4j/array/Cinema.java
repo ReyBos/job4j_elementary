@@ -18,7 +18,7 @@ public class Cinema {
         for (int i = -1; i < 2; i++) {
             int column = cell + i;
             int line = row + i;
-            if (column < 0 || column >= places.length || line < 0 || line >= places.length || i == 0) {
+            if (column < 0 || column >= places[row].length || line < 0 || line >= places.length || i == 0) {
                 continue;
             }
             if (places[row][column] != null || places[line][cell] != null) {
