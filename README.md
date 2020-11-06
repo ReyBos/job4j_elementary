@@ -28,3 +28,4 @@
 ## Блок 4. FP, Lambda, Stream API
 * [Lambda](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda)
 * [Stream API](https://github.com/ReyBos/job4j_tracker/tree/master/src/main/java/ru/job4j/stream)
+* **[Тестовое задание](https://github.com/ReyBos/job4j_tracker/commit/37a331dd7e56b83acb0246271172db40d32d4a0f) по итогам блока**
