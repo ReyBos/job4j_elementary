@@ -1,4 +1,4 @@
-package main.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 public class PointEq {
     public static boolean eq(int x1, int y1, int x2, int y2) {

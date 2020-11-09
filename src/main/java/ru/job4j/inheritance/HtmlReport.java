@@ -1,4 +1,4 @@
-package main.java.ru.job4j.inheritance;
+package ru.job4j.inheritance;
 
 public class HtmlReport extends TextReport {
     @Override

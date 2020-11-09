@@ -1,8 +1,8 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import org.junit.Assert;
 import org.junit.Test;
-import main.java.ru.job4j.array.AndArray;
+import ru.job4j.array.AndArray;
 
 import static org.junit.Assert.*;
 

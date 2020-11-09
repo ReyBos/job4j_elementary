@@ -1,4 +1,4 @@
-package main.java.ru.job4j.poly;
+package ru.job4j.poly;
 
 public interface Transport {
     void drive();

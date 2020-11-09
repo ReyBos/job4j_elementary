@@ -1,4 +1,4 @@
-package main.java.ru.job4j.array;
+package ru.job4j.array;
 
 public class LengthArrayArrays {
     public static void main(String[] args) {

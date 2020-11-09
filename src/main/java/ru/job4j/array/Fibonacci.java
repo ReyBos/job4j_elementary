@@ -1,4 +1,4 @@
-package main.java.ru.job4j.array;
+package ru.job4j.array;
 
 public class Fibonacci {
     public static boolean checkArray(int[] data) {

@@ -1,4 +1,4 @@
-package main.java.ru.job4j;
+package ru.job4j;
 
 public class LoadOrder {
     private static String static_field = echo("static field");

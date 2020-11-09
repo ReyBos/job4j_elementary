@@ -1,9 +1,9 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
 import org.junit.Test;
-import main.java.ru.job4j.array.PushTheNumbers;
+import ru.job4j.array.PushTheNumbers;
 
 public class PushTheNumbersTest {
     @Test

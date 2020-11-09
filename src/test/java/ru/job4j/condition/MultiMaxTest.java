@@ -1,7 +1,7 @@
-package test.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 import org.junit.Test;
-import main.java.ru.job4j.condition.MultiMax;
+import ru.job4j.condition.MultiMax;
 
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;

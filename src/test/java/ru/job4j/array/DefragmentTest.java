@@ -1,7 +1,7 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import org.junit.Test;
-import main.java.ru.job4j.array.Defragment;
+import ru.job4j.array.Defragment;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;

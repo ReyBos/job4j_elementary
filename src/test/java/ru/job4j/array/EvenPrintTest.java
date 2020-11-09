@@ -1,7 +1,7 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import org.junit.Test;
-import main.java.ru.job4j.array.EvenPrint;
+import ru.job4j.array.EvenPrint;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

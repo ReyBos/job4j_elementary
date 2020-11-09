@@ -1,7 +1,7 @@
-package test.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 import org.junit.Test;
-import main.java.ru.job4j.condition.WeeklySalary;
+import ru.job4j.condition.WeeklySalary;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;

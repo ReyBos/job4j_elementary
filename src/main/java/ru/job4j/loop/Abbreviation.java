@@ -1,4 +1,4 @@
-package main.java.ru.job4j.loop;
+package ru.job4j.loop;
 
 public class Abbreviation {
     public static String collect(String s) {

@@ -1,4 +1,4 @@
-package main.java.ru.job4j.array;
+package ru.job4j.array;
 
 public class SummingPrevious {
     public static int[] calculate(int a, int b, int n) {

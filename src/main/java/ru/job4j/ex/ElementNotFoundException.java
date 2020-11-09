@@ -1,4 +1,4 @@
-package main.java.ru.job4j.ex;
+package ru.job4j.ex;
 
 public class ElementNotFoundException extends Exception {
     public ElementNotFoundException(String message) {

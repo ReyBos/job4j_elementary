@@ -1,4 +1,4 @@
-package main.java.ru.job4j.loop;
+package ru.job4j.loop;
 
 public class LoopFor {
     public static void main(String[] args) {

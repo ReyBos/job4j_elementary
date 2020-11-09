@@ -1,7 +1,7 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import org.junit.Test;
-import main.java.ru.job4j.array.Square;
+import ru.job4j.array.Square;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;

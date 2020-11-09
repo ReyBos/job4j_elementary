@@ -1,9 +1,9 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.Matchers.is;
 import org.junit.Test;
-import main.java.ru.job4j.array.SkipNegative;
+import ru.job4j.array.SkipNegative;
 
 public class SkipNegativeTest {
 

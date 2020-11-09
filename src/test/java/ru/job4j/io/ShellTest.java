@@ -1,7 +1,7 @@
-package test.java.ru.job4j.io;
+package ru.job4j.io;
 
 import org.junit.Test;
-import main.java.ru.job4j.io.Shell;
+import ru.job4j.io.Shell;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;

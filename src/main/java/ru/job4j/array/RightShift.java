@@ -1,4 +1,4 @@
-package main.java.ru.job4j.array;
+package ru.job4j.array;
 
 public class RightShift {
     public static void shift(int[] nums, int count) {

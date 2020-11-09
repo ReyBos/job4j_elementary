@@ -1,8 +1,8 @@
-package test.java.ru.job4j.loop;
+package ru.job4j.loop;
 
 import org.junit.Assert;
 import org.junit.Test;
-import main.java.ru.job4j.loop.MultiplicationLoop;
+import ru.job4j.loop.MultiplicationLoop;
 
 import static org.junit.Assert.*;
 

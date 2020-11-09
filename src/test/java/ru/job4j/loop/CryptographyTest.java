@@ -1,7 +1,7 @@
-package test.java.ru.job4j.loop;
+package ru.job4j.loop;
 
 import org.junit.Test;
-import main.java.ru.job4j.loop.Cryptography;
+import ru.job4j.loop.Cryptography;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;

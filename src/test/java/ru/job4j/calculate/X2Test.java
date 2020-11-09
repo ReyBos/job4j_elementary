@@ -1,8 +1,8 @@
-package test.java.ru.job4j.calculate;
+package ru.job4j.calculate;
 
 import org.junit.Assert;
 import org.junit.Test;
-import main.java.ru.job4j.calculate.X2;
+import ru.job4j.calculate.X2;
 
 public class X2Test {
     @Test

@@ -1,4 +1,4 @@
-package main.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 public class PairsCharString {
     public static boolean check(String l, String r) {

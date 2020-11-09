@@ -1,4 +1,4 @@
-package main.java.ru.job4j.io;
+package ru.job4j.io;
 
 import java.util.Random;
 import java.util.Scanner;

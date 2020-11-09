@@ -1,9 +1,9 @@
-package test.java.ru.job4j.pojo;
+package ru.job4j.pojo;
 
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.Matchers.is;
 import org.junit.Test;
-import main.java.ru.job4j.pojo.License;
+import ru.job4j.pojo.License;
 
 public class LicenseTest {
     @Test

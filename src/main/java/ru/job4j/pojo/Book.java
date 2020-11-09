@@ -1,4 +1,4 @@
-package main.java.ru.job4j.pojo;
+package ru.job4j.pojo;
 
 public class Book {
     private String title;

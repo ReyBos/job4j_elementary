@@ -1,8 +1,8 @@
-package test.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 import org.junit.Assert;
 import org.junit.Test;
-import main.java.ru.job4j.condition.SqArea;
+import ru.job4j.condition.SqArea;
 
 public class SqAreaTest {
     @Test

@@ -1,4 +1,4 @@
-package main.java.ru.job4j.ex;
+package ru.job4j.ex;
 
 public class JdbcConfig {
     public static void load(String url) throws UserInputException {

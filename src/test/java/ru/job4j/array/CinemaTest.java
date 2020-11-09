@@ -1,13 +1,13 @@
-package test.java.ru.job4j.array;
+package ru.job4j.array;
 
 import org.junit.Test;
-import main.java.ru.job4j.array.Cinema;
+import ru.job4j.array.Cinema;
 
 import static org.hamcrest.Matchers.nullValue;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
 
-import static main.java.ru.job4j.array.Cinema.Place;
+import static ru.job4j.array.Cinema.Place;
 
 public class CinemaTest {
     @Test

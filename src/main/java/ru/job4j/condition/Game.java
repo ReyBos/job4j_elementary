@@ -1,4 +1,4 @@
-package main.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 public class Game {
     public static void menu(String name) {

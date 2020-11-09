@@ -1,4 +1,4 @@
-package main.java.ru.job4j.ex;
+package ru.job4j.ex;
 
 public class NPEx {
     public static void main(String[] args) {
